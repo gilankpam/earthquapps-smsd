@@ -1,0 +1,15 @@
+{
+	"api": {
+		"customer_key": "bestapp145",
+		"customer_key_secret": "PMBNX",
+		"access_token": "a548c08175d70c472b202220d483fa46",
+		"access_token_secret" : "f6c7828d07785438ce144c9447bb5040"
+	},
+
+	"beanstalk": {
+		"host": "127.0.0.1",
+		"port": "14711"
+	},
+
+	"database_url" : "root:@127.0.0.1/earthquake"
+}
